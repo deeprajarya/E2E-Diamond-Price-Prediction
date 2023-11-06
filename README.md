@@ -1,23 +1,13 @@
-# This is end to end Diamond Price Prediction project
+# Dimond Price Prediction - End to End Project
 
-First initialize the git
 
-```git init```
-
+1. Initalize the setup.sh file to automate the process of install requirements and create venv and all
 ```
+git init
 git add abc.txt
-git add ```
-
-```
+git add .
 git commit -m "this is my first commit"
-```
-
-```
 git pull
-
-```
-
-```
 bash your_file_name.sh
 ```
 
@@ -25,13 +15,9 @@ bash your_file_name.sh
 python setup.py install
 ```
 
-# another way you can mention -e . in your requirement file and you can run
+### Another way of installing requirements.txt
+you can mention -e . in your requirement file and you can run
 
 ```
 pip install -r requirements.txt
 ```
-
-```
-Feedback
-
-If you have any feedback, feel free to reach out ```
