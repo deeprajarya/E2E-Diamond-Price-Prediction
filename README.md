@@ -1,21 +1,18 @@
 # This is end to end Diamond Price Prediction project
 
-# first initialize the git
+First initialize the git
 
-```
-git init
-```
+```git init```
 
 ```
 git add abc.txt
-git add .
-```
+git add ```
+
 ```
 git commit -m "this is my first commit"
 ```
 
 ```
-
 git pull
 
 ```
